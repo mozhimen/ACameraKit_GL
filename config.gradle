@@ -1,0 +1,12 @@
+ext {
+    android = [
+            compileSdk           : 33,
+            applicationId        : "com.mozhimen.camerakgltest",
+            minSdk               : 21,
+            targetSdk            : 33,
+            versionCode          : 1,
+            renderscriptTargetApi: 18,
+            versionName          : "1.0.0",
+            multiDexEnabled      : true
+    ]
+}
